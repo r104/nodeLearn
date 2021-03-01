@@ -1,4 +1,3 @@
-const TestObject = require('../models/testObject');
 
 exports.test_get = function(req, res) {
     res.send('get api response');
